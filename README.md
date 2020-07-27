@@ -1,1 +1,1 @@
-# Lithophane Final Project
+Lithophane
