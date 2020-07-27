@@ -7,6 +7,7 @@
 **stl : ** Algorithm of dimensional arrays
 
 >   double a1 = v2.x - v1.x; 
+
 >		double b1 = v2.y - v1.y;
 >		double c1 = v2.z - v1.z;
 >		double a2 = v3.x - v1.x;
