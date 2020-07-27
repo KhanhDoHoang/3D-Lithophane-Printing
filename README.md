@@ -3,10 +3,10 @@
 
 ### Main: IfsFile
 #### Package: ifs, stl, test
-** ifs : ** The model of BarnsleyFern, Maple Leaf, Sierpinski and Dragon
-** stl : ** Algorithm of dimensional arrays
->   double a1 = v2.x - v1.x; 
+**ifs : ** The model of BarnsleyFern, Maple Leaf, Sierpinski and Dragon
+**stl : ** Algorithm of dimensional arrays
 
+>   double a1 = v2.x - v1.x; 
 >		double b1 = v2.y - v1.y;
 >		double c1 = v2.z - v1.z;
 >		double a2 = v3.x - v1.x;
@@ -20,4 +20,4 @@
 >	   double y = b / vec;
 >	   double z = c / vec;
 
-** test : ** Using JUnit to test every units checking if there is small errors
+**test : ** Using JUnit to test every units checking if there is small errors
