@@ -1,1 +1,1 @@
-# Lithopahne Final Project
+# Lithophane Final Project
