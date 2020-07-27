@@ -5,7 +5,6 @@
 #### Package: ifs, stl, test
 **ifs : ** The model of BarnsleyFern, Maple Leaf, Sierpinski and Dragon
 **stl : ** Algorithm of dimensional arrays
-
 >   double a1 = v2.x - v1.x; 
 
 >		double b1 = v2.y - v1.y;
